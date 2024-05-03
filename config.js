@@ -18,7 +18,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nigeria";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://wa.me/2348118459271";
 global.website=process.env.GURL || "https://wa.me/2348118459271" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d8cf2396e624152051963.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/77fa10250d855b2fa6649.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
