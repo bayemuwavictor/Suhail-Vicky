@@ -12,7 +12,7 @@ jobs:
       - name: Deploy bot
         uses: estebanuri/github-actions-deploy@v1
         with:
-          api_key: ${{ secrets.GITHUB_TOKEN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 }}
+          api_key: {{ secrets.GITHUB_TOKEN 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 }}
           repository: <bayemuwavictor>
           ref: main
           deploy_to: <heroku>
